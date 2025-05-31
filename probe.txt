@@ -1,0 +1,58 @@
+^ Ignore any line starts with "^". It's intended to be a comment
+^ This is intended to be used by browser extensions, where you make a scraper that scrapes all the channel that has
+^ low quality content, bot, AI generated, or skip them.
+^ And browser extensions using this are intended to create a smoother experience for Youtube shorts (or normal
+^ Youtubing).
+^
+^ Tbh shorting but encounter low quality video contents are terrible!
+^ CASE SENSITIVE! CASE SENSITIVE! CASE SENSITIVE!
+^
+^ Appeal by reaching out to bronuz0167 on Discord (https://discord.com)
+@tech_viista
+@CodeWithMuhib
+@Philosofeel-i2u
+@codeCretiveAI
+^ hehe "cretive" best thing ever
+@Kasuo888
+@inoelsanimeclub
+@KALIMM-1
+@ai_ascent
+@Graphicdesignerup83
+@InfoTact9
+@amaansec
+@AIPastToFuture
+@HassanKasula
+@PrimeTimeAiNews
+@FactBomb0
+@minutevoyager
+^ AI generated (all above)
+@Vboy5811
+@TheFixers260
+@Stickfigure-romeo
+@360solutions1ux
+@BusinessTacticsDaily
+@economicknowledge24h
+@Eric_Heaton
+@zZz_Budgie_zZz
+@me_mo_mam
+@zenoxixxx
+@ScinaraX
+@JwalpaCoachingClasses
+@ArchimedesMathatician
+@SovietStoriesWithYuri
+^ Low-quality/Low-viewer-base (all above)
+@PNGENIUS-f8b
+@KasulaHassan
+@hassankasula5434
+@Hassan_Kasula
+@esraertemdemirel
+@HistoryShock01
+@SantoshRana-ef5yp
+@ViditPainuly
+@ausjoshi4889
+@RootedBrains7
+@DheerendharA
+@Carlomagno86
+@anonymousanonymously8216
+^ Bot (bot-like) Commenters (all above)
+^ Lies/No scientific citation/Not trustworthy/Scam/Fraud (all above)
