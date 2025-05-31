@@ -4,3 +4,10 @@ I have been scrolling smoothly until i encounter AI channels/zero comment shorts
 obstacle I have encountered.
 Good luck using it whatever way you want.
 Unlicensed, non-copyright material.
+# How to use this?
+Any line starts with a `^` is intended to be a comment.
+There's currently a few section of it, for example, AI generated, bot commenters, low viewerbase creators,...
+Contribute by opening a Pull request. They will get approved after checked.
+# How to get removed? I'm a human/I want to grow my viewerbase
+Just DM [Ashy](https://discord.com/users/1340936652197199943) on Discord, ~~or open an issue on my dedicated GitHub repo~~
+(coming soon)
