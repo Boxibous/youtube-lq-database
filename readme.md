@@ -5,6 +5,7 @@ obstacle I have encountered.
 Good luck using it whatever way you want.
 Unlicensed, non-copyright material.
 # How to use this?
+Check out [probe.txt](https://github.com/Boxibous/youtube-lq-database/blob/main/probe.txt)
 Any line starts with a `^` is intended to be a comment.
 There's currently a few section of it, for example, AI generated, bot commenters, low viewerbase creators,...
 Contribute by opening a Pull request. They will get approved after checked.
